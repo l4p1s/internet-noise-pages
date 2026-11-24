@@ -1,0 +1,9 @@
+body{margin:0;background:#111214;color:#f2f0ea;font-family:"Noto Sans JP",system-ui,sans-serif;line-height:1.9}
+main{max-width:680px;margin:0 auto;padding:64px 24px 96px}
+h1{font-weight:400;font-size:1.7rem;letter-spacing:.04em;margin:.2em 0 1.2em}
+h2{font-weight:400;font-size:1.1rem;margin:2.4em 0 .4em}
+a{color:#ffc07a}
+.k{font-family:ui-monospace,Menlo,Consolas,monospace;letter-spacing:.2em;font-size:.85rem}
+.k a{color:inherit;text-decoration:none}
+footer{margin-top:64px;padding-top:16px;border-top:1px solid #4a4a4a;font-size:.9rem}
+footer a{margin-right:1.5em}
